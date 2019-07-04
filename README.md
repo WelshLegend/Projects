@@ -1,2 +1,2 @@
 # Projects
-Varoius WelshLegend Projects
+Various WelshLegend Projects
